@@ -1,0 +1,50 @@
+/* CSS files add styling rules to your content */
+
+body {
+font-family: 'Sriracha', cursive;
+  background: lavender;
+  
+}
+
+h1 {
+ 
+  color: purple;
+  font-size: 10vh;
+  margin:2px;
+  text-align: center;
+  line-height:1;
+  
+}
+#display{
+  
+  text-align:center;
+}
+img{
+  height:35vh;
+  margin:3px;
+}
+
+button{
+  background-color:purple;
+  color:white;
+   padding: 15px 32px;
+  font-size:1.6em;
+  
+}
+#buttons{
+  text-align: center;
+}
+
+p{
+  font-size:1.2em;
+  margin:5px;
+  line-heigh:1;
+}
+
+.danger{
+  background:red;
+  color: white;
+  
+}
+
+
